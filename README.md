@@ -13,10 +13,15 @@
  
  This file is derived from codes and a series of tricks in programming
  
+ image.m:
+ 
+ We have used three images in this folder to test the coding and in these images we find the edges of the image and remove their noises.
+ 
  links drive:
  https://drive.google.com/file/d/1UrcXHfKeTE6Oo0exRZquc1howdVXuDLA/view?usp=drivesdk
  https://drive.google.com/file/d/1cED4vFlycla2TtapptGwIjFD2u6WnfNN/view?usp=drivesdk
  https://drive.google.com/file/d/1EwSL4G1U1LU59XynhGoIbd_ifwpFWELo/view?usp=drivesdk
+ https://docs.google.com/file/d/1NnElBGJ5zfsOhQhSmzhilndzmJ9mOpKZ/edit?usp=docslist_api&filetype=msword
  
  pouriya nourizadeh.docx:
  
